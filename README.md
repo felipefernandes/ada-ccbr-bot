@@ -1,5 +1,5 @@
 # Ada, Code Club Brasil Chatbot
-É um assistente virtual pronta para ajudar voluntários e interessados em conhecer mais sobre a organização Code Club Brasil e sobre educação STEM.
+É um assistente virtual pronta para ajudar voluntários e interessados em conhecer mais sobre a organização [Code Club Brasil](https://www.codeclubbrasil.org.br/) e sobre educação STEM.
 
 obs: Esse projeto foi criado durante a Imersão IA da Alura + Google em 2024. 
 
@@ -32,6 +32,7 @@ Atualmente o projeto funciona experimentalmente apenas através do Google Collab
 * Aos instrutores que tiraram dúvidas e fizeram as aulas
 * Alura
 * Google
+* [Code Club Brasil](https://www.codeclubbrasil.org.br/)
 
 
 ---
